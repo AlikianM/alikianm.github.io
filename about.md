@@ -4,7 +4,19 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p>A passionate and motivated clinical scientist in Genomic Medicine/Clinical Genomics. In addition to my clinical role, I take pride in leadership, education and developing people and systems. I enjoy collaborative working, planning and setting up systematic solutions to complex problems. I find satisfaction in having an impact, influencing and making a difference where I work.</p>
+<p> Mary is a principal clinical scientist specialising in genomics at the C&S GLH, and an honorary senior lecturer at the University of Birmingham. She was awarded an MSc in Molecular Pathology in 2007 from Queen Mary University of London and a PhD in Genomic Medicine in 2016 from Imperial College London. She completed her first postdoc in 2019 at Imperial College London working on leukaemia MRD. 
+<br>
+<br>	
+In addition to her clinical role, Mary takes pride in leadership, education and developing people and systems. She enjoys collaborative working, planning and setting up systematic solutions to complex problems. She finds satisfaction in having an impact, influencing and making a difference where she works.
+<br>
+<br>
+Research interests are focused on standardised implementation of genomic methodologies and point of care testing (POCT) technologies into routine clinical practice.
+<br>
+<br>
+Mary is also a UKAS technical assessor for molecular genetics and bioinformatics, taking part in ensuring the delivery of high-quality genomic testing across the UK.
+<br>
+<br>
+Other Interests include genomic education, scientific multi-media content developments, data visualisation and scientific illustrations.</p>
 
 <p> </p>
 
