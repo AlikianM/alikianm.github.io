@@ -4,7 +4,7 @@ layout: page
 ---
 ![Profile Image]({% if site.external-image %}{{ site.picture }}{% else %}{{ site.url }}/{{ site.picture }}{% endif %})
 
-<p> Mary is a principal clinical scientist specialising in genomics at the C&S GLH, an honorary senior lecturer at the University of Birmingham, and a visiting lecturor at the Universiteis of Cambridge and Imperial College London. She was awarded an MSc in Molecular Pathology in 2007 from Queen Mary University of London and a PhD in Genomic Medicine in 2016 from Imperial College London. She completed her first postdoc in 2019 at Imperial College London working on leukaemia MRD. 
+<p> Mary is a principal clinical scientist specialising in genomics at the C&S GLH, an honorary senior lecturer at the University of Birmingham, and a visiting lecturer at the University of Cambridge and Imperial College London. She was awarded an MSc in Molecular Pathology in 2007 from Queen Mary University of London and a PhD in Genomic Medicine in 2016 from Imperial College London. She completed her first postdoc in 2019 at Imperial College London working on leukaemia MRD. 
 <br>
 <br>	
 In addition to her clinical role, Mary takes pride in leadership, education and developing people and systems. She enjoys collaborative working, planning and setting up systematic solutions to complex problems. She finds satisfaction in having an impact, influencing and making a difference where she works.
