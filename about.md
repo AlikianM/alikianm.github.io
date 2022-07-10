@@ -10,7 +10,7 @@ layout: page
 In addition to her clinical role, Mary takes pride in leadership, education and developing people and systems. She enjoys collaborative working, planning and setting up systematic solutions to complex problems. She finds satisfaction in having an impact, influencing and making a difference where she works.
 <br>
 <br>
-Research interests are translational, focused on standardised implementation of genomic methodologies and point of care testing (POCT) technologies into routine clinical practice. In this regard, Mary is working in colaboration with the National Mesarement Laboratory (NML), National Institute for Biological Standards and Control (NIBSC), the UK Accreditation Service (UKAS) in addition to multiple industry and pharma sponsors as part of the Knoledge Transfer Program (KTP) supported by the CSO's office at NHS Engaland (NHSE).
+Research interests are translational, focused on standardised implementation of genomic methodologies and point of care testing (POCT) technologies into routine clinical practice. In this regard, Mary is working in collaboration with the National Measurement Laboratory (NML), National Institute for Biological Standards and Control (NIBSC), the UK Accreditation Service (UKAS) in addition to multiple industry and pharma sponsors as part of the Knowledge Transfer Program (KTP) supported by the CSO's office at NHS England (NHSE)).
 <br>
 <br>
 Mary is also a UKAS technical assessor for molecular genetics and bioinformatics, taking part in ensuring the delivery of high-quality genomic testing across the UK.
