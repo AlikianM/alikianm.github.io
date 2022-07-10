@@ -18,6 +18,8 @@ Mary is also a UKAS technical assessor for molecular genetics and bioinformatics
 <br>
 Other Interests include genomic education, scientific multi-media content developments, data visualisation and scientific illustrations.</p>
 
+<hr>
+
 <p> </p>
 
 <h2>Areas of expertise</h2>
