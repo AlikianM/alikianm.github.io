@@ -16,7 +16,7 @@ Research interests are translational, focused on standardised implementation of 
 Mary is also a UKAS technical assessor for molecular genetics and bioinformatics, taking part in ensuring the delivery of high-quality genomic testing across the UK.
 <br>
 <br>
-Other Interests include genomic education, scientific multi-media content developments, data visualisation and scientific illustrations.</p>
+Other Interests include genomic education, scientific multi-media content development, data visualisation and scientific illustrations.</p>
 
 <hr>
 
@@ -27,10 +27,14 @@ Other Interests include genomic education, scientific multi-media content develo
 <ul class="expertise">
 	<li>Genomic Medicine/Precision Medicine</li>
 	<li>Clinical Genomics</li>
-	<li>Molecular Pathology</li>
 	<li>Cancer Genomics</li>
+	<li>Molecular Pathology</li>
+	<li>Haemato-Oncology</li>
+	<li>Minimal Residual Diseas (MRD)</li>
 	<li>ISO 15189:2012 Med-Lab</li>
-	<li>UKAS accreditation prep</li>
+	<li>ISO 17025:2016 Medical Device</li>
+	<li>ISO 13485:2020 Tissue Bank</li>
+	<li>UKAS accreditation</li>
 	<li>Bioinformatics</li>
 	<li>Molecular Methodologies</li>
 	<li>Molecular Diagnostics</li>
