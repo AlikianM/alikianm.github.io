@@ -34,6 +34,7 @@ Other Interests include genomic education, scientific multi-media content develo
 	<li>ISO 15189:2012 Med-Lab</li>
 	<li>ISO 17025:2016 Medical Device</li>
 	<li>ISO 13485:2020 Tissue Bank</li>
+	ISO/TS 20428:2017 Health Informatics</li>
 	<li>UKAS accreditation</li>
 	<li>Bioinformatics</li>
 	<li>Molecular Methodologies</li>
